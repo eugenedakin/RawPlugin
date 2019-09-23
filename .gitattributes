@@ -3,4 +3,4 @@
 
 *.xojo_binary_project linguist-language=Xojo
 *.xojo_xml_project linguist-language=Xojo
-RawPluginCPlusPlusCode.sln linguist-language=C++
+*.sln linguist-language=C++

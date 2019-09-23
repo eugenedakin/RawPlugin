@@ -1,0 +1,2 @@
+#define RAWPLUGINCPLUSPLUSCODE_API __declspec(dllexport)
+#define RAWPLUGINCPLUSPLUSCODE_API __declspec(dllimport)

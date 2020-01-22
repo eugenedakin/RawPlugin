@@ -1,6 +1,6 @@
 # Xojo (formerly REALbasic and Real Studio) 2019 r1.1
 # Visual Studio 2019 C++
 
-*.xojo_binary_project linguist-language=Xojo
-*.xojo_xml_project linguist-language=Xojo
+*.xojo_binary_project linguist-language=xojo
+*.xojo_xml_project linguist-language=xojo
 *.sln linguist-language=C++
